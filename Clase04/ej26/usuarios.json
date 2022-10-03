@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 5849,
+        "_nombre": "Ezekielito",
+        "_clave": "JuanKpo2000",
+        "_mail": "esekiel@ldctm.com.ar",
+        "_fechaRegistro": "28 - 09 - 2022"
+    },
+    {
+        "_id": 8564,
+        "_nombre": "Juancito",
+        "_clave": "JuanKpo2000",
+        "_mail": "jaun@ldctm.com.ar",
+        "_fechaRegistro": "28 - 09 - 2022"
+    },
+    {
+        "_id": 3230,
+        "_nombre": "Thiago",
+        "_clave": "AguanteRiver",
+        "_mail": "thiagoderiver@ldctm.com.ar",
+        "_fechaRegistro": "28 - 09 - 2022"
+    },
+    {
+        "_id": 4711,
+        "_nombre": "Camila",
+        "_clave": "AguanteRiver",
+        "_mail": "camila@ldctm.com.ar",
+        "_fechaRegistro": "29 - 09 - 2022"
+    }
+]

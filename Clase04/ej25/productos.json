@@ -1,0 +1,42 @@
+[
+    {
+        "codigoDeBarras": "123456",
+        "nombre": "Samsung 24'HD",
+        "tipo": "Monitor",
+        "stock": 16,
+        "precio": 34000,
+        "id": 123
+    },
+    {
+        "codigoDeBarras": "456789",
+        "nombre": "LG 27'HD",
+        "tipo": "Monitor",
+        "stock": 4,
+        "precio": 54000,
+        "id": 2054
+    },
+    {
+        "codigoDeBarras": "123456",
+        "nombre": "Phillips 50 pulgadas",
+        "tipo": "Televisor",
+        "stock": "5",
+        "precio": "500000",
+        "id": 7233
+    },
+    {
+        "codigoDeBarras": "123456",
+        "nombre": "Noblex 24'",
+        "tipo": "Televisor",
+        "stock": "5",
+        "precio": "500000",
+        "id": 1210
+    },
+    {
+        "codigoDeBarras": "123456",
+        "nombre": "Noblex 55'",
+        "tipo": "Televisor",
+        "stock": "5",
+        "precio": "500000",
+        "id": 7338
+    }
+]
